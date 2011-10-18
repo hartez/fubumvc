@@ -209,7 +209,6 @@
     <Compile Include="Packaging\PackageFilesIntegrationTester.cs" />
     <Compile Include="Packaging\PackageManifestReaderIntegratedTester.cs" />
     <Compile Include="Packaging\ZipFilePackageLoaderTester.cs" />
-    <Compile Include="Registration\ActionSourceMatcherTester.cs" />
     <Compile Include="Resources\Media\Formatters\FormatterMediaReaderTester.cs" />
     <Compile Include="Resources\Media\Formatters\JsonFormatterTester.cs" />
     <Compile Include="Resources\Media\MediaDependencyTester.cs" />
@@ -233,7 +232,6 @@
     <Compile Include="Resources\Media\Xml\XmlNodeCentricMediaNodeTester.cs" />
     <Compile Include="ProcessFactoryTester.cs" />
     <Compile Include="ProcessWrapperTester.cs" />
-    <Compile Include="Registration\ActionSourceMatcherTester.cs" />
     <Compile Include="Registration\attaching_behaviors_to_action_calls.cs" />
     <Compile Include="Registration\BehaviorNodeTester.cs" />
     <Compile Include="Registration\Conventions\AllowRoleAttributeTester.cs" />
